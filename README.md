@@ -1,6 +1,6 @@
 # Project Skeleton for MAD Demo from W25 onwards
 
-Requires Android Studio Quail 4 (2026.1.4) and Jetbrains JDK 21, as of September 8, 2026.
+Adapted to Android Studio Rabbit 1, 2026.2.1; requires Jetbrains JDK 21, as of October 6, 2026.
 
 Project configuration should support automatic support by Android Studio in case the JDK is not yet available locally. 
 
