@@ -6,4 +6,4 @@ Project configuration should support automatic support by Android Studio in case
 
 All dependencies to libraries required by the envisaged demo sessions during W26 have been declared.
 
-For download of Android Studio, version Quail 4, see: https://developer.android.com/studio/releases - in case the German site variant does only offer download of Quail 3, switch to the English version. 
+For download of Android Studio, version Rabbit 1, see: https://developer.android.com/studio/releases 
